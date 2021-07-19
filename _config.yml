@@ -74,7 +74,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: img/unnamed.png
+avatar: assets/img/unnamed.png
 
 #avatar: https://i.ibb.co/d6k92VP/unnamed.png
 
