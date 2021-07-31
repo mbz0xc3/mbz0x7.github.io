@@ -4,5 +4,9 @@ icon: fas fa-info
 order: 4
 ---
 
+## ┌─[✗]─[root@mbz]─[~] 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+- [x] [**TryHackMe**](https://tryhackme.com/p/mbz) : [**0x8**][**H4CK3R**]
+- [x] [**CyberTalents**](https://cybertalents.com/members/mbz/profile) : [**Top 300 Worldwide**]
+
+
