@@ -1,7 +1,7 @@
 ---
 title: Grocery Bot Web CTF WriteUp @CyberTalents
 author: MBZ0x7
-date: 2021-05-06 15:10:00 +0800
+date: 2021-09-04 15:10:00 +0800
 categories: [CTF]
 tags: [ctf,cybertalents]
 pin: false
