@@ -7,6 +7,6 @@ order: 4
 ## ┌─[✗]─[root@mbz]─[~] 
 
 - [x] [**TryHackMe**](https://tryhackme.com/p/mbz){:target="_blank"} : [**0x8**][**H4CK3R**]
-- [x] [**CyberTalents**](https://cybertalents.com/members/mbz/profile){:target="_blank"} : [**Top 300 Worldwide**]
+- [x] [**CyberTalents**](https://cybertalents.com/members/mbz/profile){:target="_blank"} : [**Top 200 Worldwide**]
 
 
