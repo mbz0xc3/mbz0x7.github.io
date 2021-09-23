@@ -6,6 +6,7 @@ categories: [CTF]
 tags: [ctf,cybertalents]
 pin: false
 ---
+
 ### Description
 This challenge is hard and requires programming skills to solve it quickly.
 ```
