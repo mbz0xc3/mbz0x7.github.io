@@ -11,4 +11,4 @@ order: 4
 
 ## ┌─[✗]─[achievements@mbz]─[~] 
 
-- [x] **2nd place in Tunisia National Cybersecurity CTF 2021** 🏆 by [**CyberTalents**](https://cybertalents.com){:target="_blank"}
+- [x] **2nd place in Tunisia National Cybersecurity CTF 2021** 🏆
