@@ -7,7 +7,7 @@ order: 4
 ## ┌─[✗]─[where_i_play@mbz]─[~] 
 
 - [x] [**CyberTalents**](https://cybertalents.com/members/mbz/profile){:target="_blank"} : [**Top 200**]
-- [x] [**TryHackMe**](https://tryhackme.com/p/mbz){:target="_blank"} : [**0x9 0MN1 -- In the top 1%**]
+- [x] [**TryHackMe**](https://tryhackme.com/p/mbz){:target="_blank"} : [**0xA HARRY WIZARD -- In the top 1%**]
 
 ## ┌─[✗]─[competitions@mbz]─[~] 
 
