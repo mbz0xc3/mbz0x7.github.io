@@ -6,7 +6,9 @@ categories: [Penetration Testing]
 tags: [linux,web,pentest,hackthebox]
 pin: false
 ---
-Here is my writeup for Horizontall linux machine from HackTheBox, which I pwned few days ago before it gots retired. 
+Hello, here's my writeup for Horizontall linux machine from HackTheBox, which I pwned few days ago before it gots retired. 
+
+![](../../assets/img/posts/3/0.jpeg)
 # <font color='red'>Information Gathering </font>
 ---
 ```
