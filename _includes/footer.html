@@ -3,24 +3,23 @@
 -->
 
 <footer class="d-flex w-100 justify-content-center">
-  <div class="d-flex justify-content-between align-items-center">
+  <div class="d-flex justify-content-between align-items-center text-muted">
     <div class="footer-left">
       <p class="mb-0">
         © {{ 'now' | date: "%Y" }}
         <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
-        {% if site.data.rights.brief %}
-        <span data-toggle="tooltip" data-placement="top" title="{{ site.data.rights.verbose }}">{{
-          site.data.rights.brief }}</span>
+        {% if site.data.locales[lang].copyright.brief %}
+        <span data-toggle="tooltip" data-placement="top"
+          title="{{ site.data.locales[lang].copyright.verbose }}">{{ site.data.locales[lang].copyright.brief }}</span>
         {% endif %}
       </p>
     </div>
 
-     <div class="footer-right">
+    <div class="footer-right">
       <p class="mb-0">
          Powered by Jekyll with Chirpy theme. 
       </p>
     </div>
-
 
   </div> <!-- div.d-flex -->
 </footer>
