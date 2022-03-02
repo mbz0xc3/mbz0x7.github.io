@@ -62,5 +62,5 @@ I run ```curl http://127.0.0.1:8000``` and got a Laravel 8 website running local
 Visiting exploit-db, I found an RCE exploit that looks promissing. 
 ![](../../assets/img/posts/3/14.png)
 For whatever reason it hasn't worked for me. So, I searched another one and found it 
-[here](https://github.com/nth347/CVE-2021-3129_exploit) which got me arbitrary code execution on the root account ,and got the flag.
+[here](https://github.com/nth347/CVE-2021-3129_exploit). which got me arbitrary code execution on the root account ,and got the flag.
 ![](../../assets/img/posts/3/15.png)
