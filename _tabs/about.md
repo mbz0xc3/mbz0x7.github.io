@@ -6,7 +6,7 @@ order: 4
 
 ## ┌─[✗]─[where_i_play@mbz]─[~]
 - [x] [**CyberTalents**](https://cybertalents.com/members/mbz/profile){:target="_blank"} : [**Top 200**]
-- [x] [**TryHackMe**](https://tryhackme.com/p/mbz){:target="_blank"} : [**0xB MASTER**]
+- [x] [**TryHackMe**](https://tryhackme.com/p/mbz){:target="_blank"} : [**GURU**]
 - [x] [**HackTheBox**](https://app.hackthebox.com/profile/658699){:target="_blank"} : [**Pro Hacker**]
 - [x] [**CTFtime**](https://ctftime.org/team/42865){:target="_blank"} : [**Player @ cyb3rTUN**]
 
