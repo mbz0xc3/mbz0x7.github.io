@@ -4,6 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+## ┌─[✗]─[experience@mbz]─[~]
+- [x] **Bug Bounty Hunter** @ [**Hacker1**](https://hackerone.com/mbz0x7){:target="_blank"} 
+
 ## ┌─[✗]─[where_i_play@mbz]─[~]
 - [x] **Pro Hacker** @ [**HackTheBox**](https://app.hackthebox.com/profile/658699){:target="_blank"} 
 - [x] **GOD** @ [**TryHackMe**](https://tryhackme.com/p/mbz){:target="_blank"}

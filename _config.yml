@@ -20,10 +20,11 @@ timezone: Africa/Tunis
 
 title: MBZ0x7                          # the main title
 
-tagline: I'm a ghost in your shell!    # it will display as the sub-title
+tagline: Bug Bounty Hunter     # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  Ghost in your shell.
+description: >-                 # used by seo meta and the atom feed 
+   Bug Bounty Hunter                        
+
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://mbz0x7.cf'
